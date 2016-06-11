@@ -14,3 +14,5 @@ task guitar3
 ![mahua](http://o7q6guhd5.bkt.clouddn.com/%E6%B7%BB%E5%8A%A0%E5%89%8D%E7%9A%84%E8%A1%A8.PNG)
 ##添加后的表
 ![mahua](http://o7q6guhd5.bkt.clouddn.com/%E6%B7%BB%E5%8A%A0%E5%90%8E%E7%9A%84%E8%A1%A8.PNG)
+##目录结构
+![mahua](http://o7q6guhd5.bkt.clouddn.com/%E7%9B%AE%E5%BD%95%E7%BB%93%E6%9E%84.PNG)
