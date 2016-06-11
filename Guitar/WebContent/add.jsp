@@ -11,7 +11,7 @@
 <hr/>
 
 <div align=center>
-<form action="addguitar" method="get">
+<form action="add" method="get">
 <table>
 <td>
 
