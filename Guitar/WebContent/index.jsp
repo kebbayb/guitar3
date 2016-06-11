@@ -11,9 +11,9 @@
 <hr/>
 <div align=center>
 <h2>相关操作</h2>
-<a href="all.jsp"><strong>全部吉他</strong></a>
-<a href="search.jsp"><strong>搜索吉他</strong></a>
-<a href="add.jsp"><strong>添加吉他</strong></a>
+<a href="all.jsp"><strong>全部吉他</strong></a><br/><br/>
+<a href="search.jsp"><strong>搜索吉他</strong></a><br/><br/>
+<a href="add.jsp"><strong>添加吉他</strong></a><br/><br/>
 </div>
 </body>
 </html>
