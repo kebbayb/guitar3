@@ -3,9 +3,9 @@ package test;
 import java.util.Iterator;
 import java.util.List;
 
-import guitar.Inventory;
-import guitar.guitar;
-import guitar.guitarspec;
+import model.Inventory;
+import model.guitar;
+import model.guitarspec;
 
 public class searchTest {
 	public static void main(String[] args) {

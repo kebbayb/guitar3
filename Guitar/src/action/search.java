@@ -11,10 +11,12 @@ package action;
 
 	import Dao.dataAccess;
 	import Dao.guitarDao;
-	import guitar.guitarspec;
+import model.guitarspec;
+	@SuppressWarnings("serial")
 	public class search extends HttpServlet{
 		public void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		}
+		@SuppressWarnings("rawtypes")
 		protected void doGet(HttpServletRequest request, HttpServletResponse response)
 				throws ServletException, IOException {
 		

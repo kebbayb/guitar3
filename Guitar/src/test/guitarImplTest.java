@@ -7,7 +7,7 @@ import org.junit.Test;
 public class guitarImplTest {
 	@Test
 	public void test(){
-		Impl.guitarImpl impl = new Impl.guitarImpl();
+		mysqlDao.guitarImpl impl = new mysqlDao.guitarImpl();
 		assertEquals(impl.getAllGuitars().size(),5);
 	}
 }

@@ -1,4 +1,4 @@
-package guitar;
+package model;
 
 public class guitarspec {
 	private String builder;           
@@ -54,7 +54,7 @@ public class guitarspec {
 		return backWood;
 	}
 	
-	//²éÕÒ¼ªËû
+	
 	public boolean matches(guitarspec otherSpec) {
 
 		if (!builder.equals(otherSpec.builder)&&!otherSpec.builder.equals(""))

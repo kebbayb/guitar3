@@ -2,9 +2,9 @@ package Dao;
 
 import java.util.List;
 
-import guitar.guitar;
-import guitar.guitarspec;
-import guitar.Inventory;
+import model.Inventory;
+import model.guitar;
+import model.guitarspec;
 public interface guitarDao {
 	public List<guitar> getAllGuitars();
 	public Inventory Inventory();

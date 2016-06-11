@@ -8,7 +8,7 @@ import org.junit.Test;
 
 import Dao.dataAccess;
 import Dao.guitarDao;
-import guitar.guitar;
+import model.guitar;
 public class guitarserviceTest {
 	@Test
 	public void test() {

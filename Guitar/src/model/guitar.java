@@ -1,4 +1,4 @@
-package guitar;
+package model;
 
 public class guitar {
 	private String serialNumber;

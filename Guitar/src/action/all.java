@@ -8,7 +8,7 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import Dao.guitarDao;
-import guitar.guitar;
+import model.guitar;
 import Dao.dataAccess;
 
 

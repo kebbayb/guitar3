@@ -9,7 +9,7 @@ import javax.servlet.http.HttpServletResponse;
 
 import Dao.dataAccess;
 import Dao.guitarDao;
-import guitar.guitarspec;
+import model.guitarspec;
 
 public class add extends HttpServlet {
 	public void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
