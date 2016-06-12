@@ -5,7 +5,7 @@ import java.sql.SQLException;
 
 import java.sql.Connection;
 public class DBUtil {
-	static String url="jdbc:sqlite:/f:/use/Guitar.db3";
+	static String url="jdbc:sqlite://f:/use/Guitar.db3";
 	static Connection conn=null;
 	public static java.sql.Connection getConnection(){
 		
